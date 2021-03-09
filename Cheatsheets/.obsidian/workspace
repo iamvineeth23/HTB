@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "d87e5b11a3d044bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1ad451faf99ea9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tricks.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee600cd1a62769bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1bc8f856c6c66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ce0c3abe3aec928",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9eb5bdcfacd3108d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9457ff9f5f3e1a2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5739f0609bef88f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0511bdd3dd6a9c41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tricks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "tricks.md",
+    "Tools.md",
+    "To_check.md",
+    "Untitled.md"
+  ]
+}
